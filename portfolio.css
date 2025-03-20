@@ -183,7 +183,6 @@ body{
         width: 100%;
         flex-wrap: wrap;
         justify-content: space-around;
-        margin-left: 8px;
     }
     .prjct1,.prjct2,.prjct3,.prjct4,.prjct5 {
         position: relative;
@@ -195,6 +194,7 @@ body{
         border-radius: 10px;
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         flex-basis: 30%;
+        margin-left: 16px;
     }
     
     .prjct1 img,.prjct2 img,.prjct3 img,.prjct4 img,.prjct5 img {

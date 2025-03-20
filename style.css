@@ -267,7 +267,7 @@ body {
 
     .content1 {
         position: absolute;
-        bottom: 5px;
+        bottom: 40px;
         left: 50px;
         display: flex;
         flex-direction: row;
