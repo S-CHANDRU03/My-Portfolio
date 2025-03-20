@@ -181,6 +181,7 @@ body {
 
     .body {
         background-color: none;
+        height: 100vh;
     }
     .sidenav{
         display: block;
